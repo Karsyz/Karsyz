@@ -3,8 +3,8 @@ I am so new to this coding world that I don't even know how to introduce myself 
 
 - 👋 Hi, I’m @Karsyz
 - 👀 I’m interested in web apps
-- 🌱 I’m currently learning full stack javascript
-- 💞️ I’m looking to collaborate on anything
+- 🌱 I’m currently working with javascript
+- 💞️ I’m looking to collaborate on web app projects.
 - 📫 DM on Twitter @karsyzz
 
 <!---
