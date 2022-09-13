@@ -1,13 +1,13 @@
 <h1>Hey!👋, I'm Karsy</h1>
 <h2>A Full Stack Developer</h2>
 
-- 👨‍💻 Check out my Portfolio at [mattkars.com](mattkars.com)
+- 👨‍💻 Check out my Portfolio at <a href="https://mattkars.com" target="_blank">https://mattkars.com</a>
 
-- 📝 Find some Articles I've written at [mattkars.com/blog](mattkars.com/blog)
+- 📝 Find some Articles I've written at <a href="mattkars.com/blog" target="_blank">https://mattkars.com/blog</a>
 
 - 📫 Email: **mattkars@gmail.com**
 
-- 📄 Resume: [https://bit.ly/3KxDc6C](https://bit.ly/3KxDc6C)
+- 📄 Resume: <a href="https://bit.ly/3KxDc6C" target="_blank">https://bit.ly/3KxDc6C</a>
   
 
 <h2>Connect with me:</h2>
