@@ -3,8 +3,6 @@
 
 - 👨‍💻 Check out my Portfolio at <a href="https://mattkars.com" target="_blank">https://mattkars.com</a>
 
-- 📝 Find some Articles I've written at <a href="mattkars.com/blog" target="_blank">https://mattkars.com/blog</a>
-
 - 📫 Email: **mattkars@gmail.com**
 
 - 📄 Resume: <a href="https://bit.ly/3KxDc6C" target="_blank">https://bit.ly/3KxDc6C</a>
