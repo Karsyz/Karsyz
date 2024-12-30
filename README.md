@@ -2,7 +2,7 @@
 
 I'm a Full Stack Developer and occasionally a UI/UX Designer, Robotics Engineer, and CAD Designer. I'm a life long learner, tinkerer, and maker. I love making useful websites and applications that automate the monotonous along with everything else interesting and shiny.
 
-Check out my Portfolio at <a href="https://mattkars.com" target="_blank">https://mattkars.com</a>
+Check out my Portfolio at <a href="https://mattkars.dev" target="_blank">https://mattkars.dev</a>
 
 ## What I'm currently working on
  
