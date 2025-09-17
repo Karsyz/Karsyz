@@ -6,22 +6,24 @@ Check out my Portfolio at <a href="https://mattkars.netlify.app" target="_blank"
 
 ## What I'm currently working on
  
-- [Karsyz/steeplepeeps](https://github.com/Karsyz/steeplePeeps) - Steeple Peeps MVP 
-- [Karsyz/babyDees](https://github.com/Karsyz/babyDees) - Baby Dee's Rag Quilt Shoppe 
+- [Karsyz/devPortfolio](https://github.com/Karsyz/mattkarsDevPortfolio) - Dev Portfolio
+- [Karsyz/crmBackend](https://github.com/Karsyz/karsyzCrmBackend) - Backend for Chill Caller CRM
+- [Karsyz/crmFrontend](https://github.com/Karsyz/karsyzCrmFrontend) - Frontend for Chill Caller CRM
+- [Karsyz/googleMapsScraperButton](https://github.com/Karsyz/googleMapsScraperButton) - Google Maps Extension
 
 ## Latest Projects
 
-- [Karsyz/grammaster](https://github.com/Karsyz/grammaster) - Grammaster Dough Recipe Batch Size Converter
-- [Karsyz/easycopymessagebuilder](https://github.com/Karsyz/easycopymessagebuilder) - Easy Copy Message Generator
-- [Karsyz/memeGenerator](https://github.com/Karsyz/memeGenerator) - Meme Generator
-- [Karsyz/travelJournal](https://github.com/Karsyz/travelJournal) - Travel Journal
+- [Karsyz/steeplepeeps](https://github.com/Karsyz/steeplePeeps) - Steeple Peeps MVP
+- [Karsyz/ElimServices](https://github.com/Karsyz/elimServices) - Elim Church Services Demo Page
+- [Karsyz/SpaceTourism](https://github.com/Karsyz/spaceTourism) - Space Tourism Demo Page
+- [Karsyz/karsyzGuardRailCalculator](https://github.com/Karsyz/karsyzGuardRailCalculator) - Guardrail Designer
+- [Karsyz/easyCopyMessageBuilder](https://github.com/Karsyz/easycopymessagebuilder) - Easy Copy Message Generator
 
 ## How To Reach Me
 
 - Email: **mattkars@gmail.com**
-- Twitter: [@karsyzz](https://twitter.com/karsyzz)
-- LinkedIn: [https://linkedin.com/in/mattkars](https://linkedin.com/in/mattkars)
-- Resume: [https://bit.ly/3KxDc6C](https://bit.ly/3KxDc6C)
+- X: [@karsyzz](https://x.com/karsyzz)
+- LinkedIn: [https://www.linkedin.com/in/matt-kars-10b820341/](https://www.linkedin.com/in/matt-kars-10b820341/)
  
 ## Languages and Tools:
 
